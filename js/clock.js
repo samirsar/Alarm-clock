@@ -42,7 +42,7 @@ setInterval(() => {
     
     
 }, 1000);
-var a=new Audio('/Music/teri-meri-gallan-hogi-mashhur-ringtone-256k-55108-55202-55225.mp3');
+var a=new Audio('Music/teri-meri-gallan-hogi-mashhur-ringtone-256k-55108-55202-55225.mp3');
 function Alarming(){
     a.play();
 }
